@@ -3,7 +3,7 @@
 <p align="center"><img src="PROJECT-OVERVIEW.svg" alt="Diagrama explicativo de AUR I.D · TON" width="100%"></p>
 
 
-Aplicação web experimental que apresenta uma vitrine para o conceito AUR I.D associado ao ecossistema TON. O repositório contém uma interface React/Vite e um servidor Express que serve os arquivos estáticos compilados.
+Interface Web3 demonstrativa que apresenta uma vitrine para o conceito AUR I.D associado ao ecossistema TON. O repositório contém uma interface React/Vite e um servidor Express que serve os arquivos estáticos compilados.
 
 > **Aviso importante:** a interface contém estados e valores demonstrativos. A tela simula conexão de carteira, endereço de contrato, saldo e cálculo de recompensa; o código consultado não comprova conexão real com uma carteira TON, contrato inteligente implantado, staking, transações ou pool de liquidez. Não envie fundos nem utilize os valores exibidos como dados financeiros reais.
 
