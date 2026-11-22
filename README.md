@@ -67,7 +67,7 @@ Antes de qualquer integração real:
 
 ## Estado do projeto
 
-Protótipo de interface. A publicação deste código não constitui oferta de ativo, serviço financeiro, auditoria de contrato, garantia de rendimento ou recomendação de investimento.
+Interface demonstrativa. A publicação deste código não constitui oferta de ativo, serviço financeiro, auditoria de contrato, garantia de rendimento ou recomendação de investimento.
 
 ## Contribuição
 
